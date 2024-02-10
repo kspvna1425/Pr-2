@@ -1,0 +1,48 @@
+.home {
+    align-items: center;
+    justify-content: center;
+}
+
+.home-logo {
+    display: none;
+}
+
+.other {
+    flex-direction: column;
+}
+
+#menu {
+    /* display: flex; */
+    position: absolute;
+    justify-content: flex-end;
+    top: 90px;
+    right: 65px;
+}
+
+.center {
+    width: auto;
+}
+
+.services {
+    flex-direction: column;
+}
+
+.main {
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.aman {
+    margin: 12px 15px;
+    padding: 11px 12px;
+}
+
+.vikash {
+    margin: 12px 10px;
+    padding: 11px 12px;
+}
+
+.rohit {
+    margin: 12px 10px;
+    padding: 11px 12px;
+}
